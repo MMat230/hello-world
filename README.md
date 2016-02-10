@@ -1,2 +1,2 @@
 # hello-world
-A regular repository, nothing else.
+A regular repository, nothing else here.
